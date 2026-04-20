@@ -12,7 +12,7 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
   - **Email:** [eismayilli4@std.beu.edu.az](mailto:eismayilli4@std.beu.edu.az)
   - **Portfolio:** [www.imsketcher.me](https://imsketcher.me) *(3D CAD Models & Engineering Drawings)*
   - **LinkedIn:** [linkedin.com/in/əli-ismayıllı](https://www.google.com/search?q=https://www.linkedin.com/in/%C9%99li-ismay%C4%B1ll%C4%B1)
-  - **GitHub:** [PrometheusAli](https://github.com/PrometheusAli)
+  - **GitHub:** [mechanic-ali](https://github.com/mechanic-ali)
 
 -----
 
