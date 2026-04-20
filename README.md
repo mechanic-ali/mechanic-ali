@@ -36,14 +36,8 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
 
 ### 🔧 Technical Skills (Visual Logos)
 
-\<p\>
-\<img src="[https://cdn.simpleicons.org/autodesk/0696D7](https://cdn.simpleicons.org/autodesk/0696D7)" height="46" alt="Autodesk (AutoCAD)" /\>
-\<img src="[https://img.shields.io/badge/AutoCAD-000000?style=flat\&logo=autodesk\&logoColor=white](https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white)" height="22" alt="AutoCAD Badge" /\>
-\</p\>
-
-\<p\>
-\<img src="[https://img.shields.io/badge/SolidWorks-FF0000?style=flat\&logo=solidworks\&logoColor=white](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)" height="22" alt="SolidWorks Badge" /\>
-\</p\>
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E32224?style=for-the-badge&logo=solidworks&logoColor=white)
 
 | Category | Skills & Technologies |
 |----------|-----------------------|
