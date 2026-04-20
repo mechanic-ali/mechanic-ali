@@ -103,19 +103,7 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
 | `engineering-analysis-notes` | Excel sheets and scripts for foundational thermodynamic and structural stress calculations. |
 | `pid-schematics-library` | AutoCAD 2D layouts demonstrating the interpretation of industrial piping and instrumentation diagrams. |
 
------
 
-### 📈 GitHub Overview
-
-\<p\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=PrometheusAli\&show\_icons=true\&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=PrometheusAli&show_icons=true&theme=tokyonight)" height="150" alt="GitHub Stats" /\>
-\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli\&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli&theme=tokyonight)" height="150" alt="GitHub Streak" /\>
-\</p\>
-\<p\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusAli\&layout=compact\&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusAli&layout=compact&theme=tokyonight)" height="120" alt="Top Languages" /\>
-\</p\>
-
------
 
 ### 🔄 Current Focus
 
