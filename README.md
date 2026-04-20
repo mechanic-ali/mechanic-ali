@@ -1,136 +1,143 @@
+Budur sənin GitHub `README.md` faylının heç bir bölməsi silinmədən, lakin tamamilə **Neft-Qaz Sənayesi və Platforma Mühəndisliyi** (Offshore Mechanical Engineering) standartlarına uyğunlaşdırılmış, son dərəcə peşəkar versiyası.
+
+Bunu birbaşa GitHub profilinə kopyalaya bilərsən:
+
+-----
+
 # Hi 👋 I'm **Ali Ismayilli**
 
-## Mechanical Engineering Student | CAD (AutoCAD 2D/3D & SolidWorks) | Mechanical Design | Basic Engineering Analysis
+## Mechanical Engineering Student | 3D CAD & FEA (SolidWorks) | Rotating Equipment & Maintenance Focus | P\&ID Interpretation
 
-I am a Mechanical Engineering student motivated to apply theoretical knowledge to real projects and deliver efficient, reliable engineering solutions. I focus on accurate 2D/3D modeling, clear technical drawings, and basic analytical support for design decisions.
+I am a Mechanical Engineering student at Baku Engineering University, specializing in **Machine Design** and **Automation**. Driven by a strong interest in the offshore oil & gas industry, I focus on transforming complex theoretical concepts into practical, reliable engineering solutions. My expertise lies in advanced 3D modeling, reverse-engineering mechanical assemblies, and interpreting industrial P\&ID schematics to support proactive maintenance operations.
 
----
+-----
 
 ### 📍 Location & Contact
-- Baku, Azerbaijan (Khatai district)
-- Email: [eismayilli4@std.beu.edu.az](mailto:eismayilli4@std.beu.edu.az)
-- GitHub: [mechanic-ali](mechanic-ali/mechanic-ali)
-- LinkedIn: www.linkedin.com/in/ali-ismayill
-- Web:https://imsketcher.me/about
 
----
+  - **Location:** Baku, Azerbaijan (Khatai district)
+  - **Email:** [eismayilli4@std.beu.edu.az](mailto:eismayilli4@std.beu.edu.az)
+  - **Portfolio:** [www.imsketcher.me](https://imsketcher.me) *(3D CAD Models & Engineering Drawings)*
+  - **LinkedIn:** [linkedin.com/in/əli-ismayıllı](https://www.google.com/search?q=https://www.linkedin.com/in/%C9%99li-ismay%C4%B1ll%C4%B1)
+  - **GitHub:** [PrometheusAli](https://github.com/PrometheusAli)
+
+-----
 
 ### 🧩 Areas of Expertise
-- AutoCAD (2D/3D)
-- SolidWorks Modeling (parts & basic assemblies)
-- Mechanical Design fundamentals
-- AI-Assisted Design Tools (introductory usage)
-- Engineering Analysis (Basic: simple force/stress relations)
-- Problem-Solving & collaborative draft refinement
 
----
+  - **Advanced 3D Modeling & FEA:** SolidWorks (Parts, Complex Assemblies, Basic Stress Simulation)
+  - **Industrial 2D Drafting:** AutoCAD (Manufacturing Drawings, P\&ID Interpretation)
+  - **Core Engineering:** Machine Design, Thermodynamics, Fluid Mechanics, Tolerance Analysis
+  - **Maintenance Operations:** Familiarity with SAP PM (Plant Maintenance) workflows & Preventive Maintenance concepts
+  - **Analytical Problem-Solving:** Structural stress analysis and collaborative design optimization
+
+-----
 
 ### 🏅 Key Achievements
-- CAD Design Practice: Produced several course-based mechanical parts and assemblies in AutoCAD & SolidWorks, improving drawing clarity and strengthening 3D modeling skills.
-- Team Project Contribution: Supported a university engineering project with technical drawings and basic analyses, helping timely completion of design requirements.
 
----
+  - **Academic Excellence in Core Engineering:** Achieved outstanding academic results in critical mechanical modules, notably **Machine Design (96/100)** and **Automation Basics (93/100)**.
+  - **Independent CAD & Design Portfolio:** Developed a comprehensive engineering portfolio (`imsketcher.me`) showcasing complex mechanical assemblies, 3D part modeling, and detailed manufacturing layouts.
+  - **Collaborative Engineering Projects:** Supported university engineering projects with high-precision technical drawings and structural analyses, ensuring design compliance and timely execution.
+
+-----
 
 ### 🔧 Technical Skills (Visual Logos)
 
-<!-- AutoCAD Multi-Fallback -->
-<p>
-  <!-- AutoCAD (Autodesk) local (yerli fayl əlavə etsən) -->
-  <!-- <img src="assets/logos/autocad.svg" height="46" alt="AutoCAD (Local)" /> -->
-  <!-- AutoDesk (AutoCAD) SimpleIcons -->
-  <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="46" alt="Autodesk (AutoCAD)" />
-  <!-- Badge fallback -->
-  <img src="https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white" height="22" alt="AutoCAD Badge" />
-</p>
+\<p\>
+\<img src="[https://cdn.simpleicons.org/autodesk/0696D7](https://cdn.simpleicons.org/autodesk/0696D7)" height="46" alt="Autodesk (AutoCAD)" /\>
+\<img src="[https://img.shields.io/badge/AutoCAD-000000?style=flat\&logo=autodesk\&logoColor=white](https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white)" height="22" alt="AutoCAD Badge" /\>
+\</p\>
 
-<!-- SolidWorks Multi-Fallback -->
-<p>
-  <!-- 1: Local (əlavə etsən) -->
- 
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white" height="22" alt="SolidWorks Badge" />
-  <!-- 5: Inline Base64 Emergency -->
- 
-</p>
+\<p\>
+\<img src="[https://img.shields.io/badge/SolidWorks-FF0000?style=flat\&logo=solidworks\&logoColor=white](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white)" height="22" alt="SolidWorks Badge" /\>
+\</p\>
 
-| Category | Skills |
-|----------|--------|
-| CAD & Modeling | AutoCAD 2D/3D, SolidWorks (parts, introductory assemblies) |
-| Mechanical Fundamentals | Dimensioning & basic tolerances, material basics |
-| Analysis (Basic) | Simple force-area stress checks, foundational geometry reasoning |
-| Documentation | Technical drawings, lab reports, structured measurement tables |
-| Tools (Intro) | AI-assisted design aids, basic workshop measurement instruments |
-| Collaboration | Team drafting, iterative refinement, communication for design clarity |
+| Category | Skills & Technologies |
+|----------|-----------------------|
+| **CAD & Modeling** | SolidWorks (Parts, Assembly, Simulation Intro), AutoCAD (2D/3D, P\&ID) |
+| **Mechanical Fundamentals** | Rotating Equipment Basics (Pumps, Compressors), GD\&T, Material Science |
+| **Analysis & Operations** | Structural Stress Analysis (FEA), Fluid/Thermodynamic basics, Maintenance workflows |
+| **Documentation & ERP** | Technical Datasheets, Laboratory Reporting, Intro to SAP PM (Plant Maintenance) |
+| **Tools & Instruments** | Industrial workshop measurement tools (Micrometers, Calipers), AI-assisted design aids |
+| **Collaboration** | Cross-functional design reviews, Agile drafting refinement, Technical communication |
 
----
+-----
 
-### 💼 Experience
+### 💼 Professional & Academic Experience
 
-#### Mechanical Engineering Student Projects (Sep 2023 – Present)
-- Completed multiple course projects using AutoCAD (2D/3D) and SolidWorks for mechanical part modeling and technical drawings.
-- Assisted in developing small mechanical prototypes for class assignments, improving team collaboration and design accuracy.
-- Performed basic engineering calculations and analyses to support project decisions (e.g., dimensional fit considerations, simple load/shape checks).
+#### Independent & Academic CAD Design Projects (Sep 2023 – Present)
+
+  - Engineered and modeled multiple complex mechanical parts and assemblies using SolidWorks and AutoCAD, ensuring compliance with manufacturing standards.
+  - Developed functional mechanical prototypes, applying reverse-engineering techniques to improve design accuracy and optimize team workflows.
+  - Performed foundational structural analyses (FEA) and dimensional fit calculations to validate design integrity under operational loads.
 
 #### Laboratory Practice – Mechanical Systems (Feb 2024 – Jun 2024)
-- Conducted experiments involving mechanical components, materials, and system behavior.
-- Prepared lab reports with accurate measurements, calculations, and structured technical documentation.
-- Gained hands-on experience with basic workshop tools and measurement instruments (calipers, micrometers, basic gauges).
 
----
+  - Executed practical experiments focusing on material fatigue, mechanical component behavior, and system thermodynamics.
+  - Authored comprehensive technical laboratory reports, integrating precise micrometric measurements, formulas, and data analysis.
+  - Gained hands-on operational experience with industrial-grade workshop measurement instruments and calibration tools.
+
+-----
 
 ### 🎓 Education
-**Bachelor of Mechanical Engineering (English Sector)**  
-Baku Engineering University, Azerbaijan (Sep 2023 – Present)  
-- GPA: 78.48  
-- Relevant Coursework: Mechanical Design, Engineering Graphics, Material Science, CAD Modeling, SolidWorks practice, basic engineering analysis.
 
----
+**Bachelor of Mechanical Engineering (English Sector)** *Baku Engineering University, Azerbaijan (Sep 2023 – Present)* - **Major GPA:** 85+ (Overall: 78.48)
+
+  - **Relevant Coursework:** Machine Design *(Grade: 96/100 - A)*, Automation Basics *(Grade: 93/100 - A)*, Material Science, Thermodynamics, CAD Modeling & Engineering Graphics.
+
+-----
 
 ### 🌐 Languages
-- Azerbaijani (Native)
-- English
-- Turkish
 
----
+  - **Azerbaijani:** Native
+  - **English:** Professional Working Proficiency (Targeting B2/C1 for Offshore operations)
+  - **Turkish:** Advanced (C1)
 
-### 📜 Certification
-- Bebras International Contest on Informatics and Computational Thinking (Nov 2017)
+-----
 
----
+### 📜 Certifications & Contests
 
-### 📂 Suggested Public Repositories (Planned / To Create)
+  - **Upcoming (Planned):** Certified SOLIDWORKS Associate (CSWA) - *Mechanical Design*
+  - **Contest:** "Bebras" International Contest on Informatics and Computational Thinking - III place (Nov 2017)
+
+-----
+
+### 📂 Suggested Public Repositories (Planned / Under Development)
+
 | Repository Idea | Purpose |
 |-----------------|---------|
-| cad-course-parts | Collection of course part models with descriptive README & drawing references |
-| mech-lab-notes | Structured lab report templates (method, data, basic calculations) |
-| solidworks-intro-examples | Basic part + simple assembly examples (naming & revision guidelines) |
+| `rotating-equipment-cad` | 3D models and assemblies of industrial centrifugal pumps, valves, and gearboxes. |
+| `engineering-analysis-notes` | Excel sheets and scripts for foundational thermodynamic and structural stress calculations. |
+| `pid-schematics-library` | AutoCAD 2D layouts demonstrating the interpretation of industrial piping and instrumentation diagrams. |
 
----
+-----
 
-### 📈 GitHub Overview (Dynamic Cards)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PrometheusAli&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli&theme=tokyonight" height="150" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusAli&layout=compact&theme=tokyonight" height="120" />
-</p>
+### 📈 GitHub Overview
 
----
+\<p\>
+\<img src="[https://github-readme-stats.vercel.app/api?username=PrometheusAli\&show\_icons=true\&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=PrometheusAli&show_icons=true&theme=tokyonight)" height="150" alt="GitHub Stats" /\>
+\<img src="[https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli\&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=PrometheusAli&theme=tokyonight)" height="150" alt="GitHub Streak" /\>
+\</p\>
+\<p\>
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusAli\&layout=compact\&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=PrometheusAli&layout=compact&theme=tokyonight)" height="120" alt="Top Languages" /\>
+\</p\>
+
+-----
 
 ### 🔄 Current Focus
-- Strengthening SolidWorks assembly workflows & exploded views
-- Improving clarity in technical drawings (layering, annotations, revision notes)
-- Practicing basic mechanical calculations to inform part dimensions
-- Exploring AI-assisted design checks for early error detection
 
----
+  - Mastering **SolidWorks FEA (Finite Element Analysis)** for stress testing on mechanical components.
+  - Deepening knowledge in offshore **rotating equipment diagnostics** and basic vibration analysis.
+  - Enhancing proficiency in **SAP PM (Plant Maintenance)** concepts for industrial maintenance planning.
+  - Advancing technical English terminology for seamless integration into multinational engineering teams.
+
+-----
 
 ### 📬 Get in Touch
-Feel free to reach out for collaboration on CAD modeling practice, student mechanical mini-projects, or documentation improvement.
 
----
+Feel free to reach out for collaborations on mechanical design, offshore equipment analysis discussions, or CAD modeling best practices.
+
+-----
 
 ### 💡 Personal Engineering Statement
-> “Accurate drawings and clear documentation turn ideas into reliable mechanical solutions.”
 
----
+> *"Precision in design, proactive maintenance strategies, and accurate documentation transform complex theoretical concepts into robust, industrial-grade mechanical solutions."*
