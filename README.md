@@ -41,9 +41,7 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
 | **CAD & Modeling** | SolidWorks (Parts, Assembly, Simulation Intro), AutoCAD (2D/3D, P\&ID) |
 | **Mechanical Fundamentals** | Rotating Equipment Basics (Pumps, Compressors), GD\&T, Material Science |
 | **Analysis & Operations** | Structural Stress Analysis (FEA), Fluid/Thermodynamic basics, Maintenance workflows |
-| **Documentation & ERP** | Technical Datasheets, Laboratory Reporting, Intro to SAP PM (Plant Maintenance) |
 | **Tools & Instruments** | Industrial workshop measurement tools (Micrometers, Calipers), AI-assisted design aids |
-| **Collaboration** | Cross-functional design reviews, Agile drafting refinement, Technical communication |
 
 -----
 
