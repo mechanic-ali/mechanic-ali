@@ -20,9 +20,6 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
 
   - **Advanced 3D Modeling & FEA:** SolidWorks (Parts, Complex Assemblies, Basic Stress Simulation)
   - **Industrial 2D Drafting:** AutoCAD (Manufacturing Drawings, P\&ID Interpretation)
-  - **Core Engineering:** Machine Design, Thermodynamics, Fluid Mechanics, Tolerance Analysis
-  - **Maintenance Operations:** Familiarity with SAP PM (Plant Maintenance) workflows & Preventive Maintenance concepts
-  - **Analytical Problem-Solving:** Structural stress analysis and collaborative design optimization
 
 -----
 
