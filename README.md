@@ -1,9 +1,3 @@
-Budur sənin GitHub `README.md` faylının heç bir bölməsi silinmədən, lakin tamamilə **Neft-Qaz Sənayesi və Platforma Mühəndisliyi** (Offshore Mechanical Engineering) standartlarına uyğunlaşdırılmış, son dərəcə peşəkar versiyası.
-
-Bunu birbaşa GitHub profilinə kopyalaya bilərsən:
-
------
-
 # Hi 👋 I'm **Ali Ismayilli**
 
 ## Mechanical Engineering Student | 3D CAD & FEA (SolidWorks) | Rotating Equipment & Maintenance Focus | P\&ID Interpretation
