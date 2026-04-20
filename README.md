@@ -102,13 +102,3 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
   - Advancing technical English terminology for seamless integration into multinational engineering teams.
 
 -----
-
-### 📬 Get in Touch
-
-Feel free to reach out for collaborations on mechanical design, offshore equipment analysis discussions, or CAD modeling best practices.
-
------
-
-### 💡 Personal Engineering Statement
-
-> *"Precision in design, proactive maintenance strategies, and accurate documentation transform complex theoretical concepts into robust, industrial-grade mechanical solutions."*
