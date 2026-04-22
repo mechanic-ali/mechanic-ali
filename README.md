@@ -20,8 +20,8 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
 
 ### 🧩 Areas of Expertise
 
-  - ** 3D Modeling :** SolidWorks (Parts, Complex Assemblies, Basic Stress Simulation)
-  - ** 2D Drafting:** AutoCAD (Manufacturing Drawings, P\&ID Interpretation)
+  - **3D Modeling :** SolidWorks (Parts, Complex Assemblies, Basic Stress Simulation)
+  - **2D Drafting:** AutoCAD (Manufacturing Drawings, P\&ID Interpretation)
 
 -----
 
