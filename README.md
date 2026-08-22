@@ -13,8 +13,8 @@ I am a Mechanical Engineering student at Baku Engineering University, specializi
   - **Portfolio:** [www.imsketcher.me](https://imsketcher.me) *(3D CAD Models & Engineering Drawings)*
   - **LinkedIn:** [linkedin.com/in/əli-ismayıllı](https://www.google.com/search?q=https://www.linkedin.com/in/%C9%99li-ismay%C4%B1ll%C4%B1)
   - **GitHub:** [mechanic-ali](https://github.com/mechanic-ali)
-  - **Transkript:** [Transkript (PDF)](https://raw.githubusercontent.com/mechanic-ali/mechanic-ali-transcript/0ecb0095ba3108f5c1ded41a9b3623b6d3f876b6/Transkript.pdf)
-  - **CV:** [CV (PDF)](https://github.com/mechanic-ali/mechanic-ali-mechanic-ali-cv/blob/main/Ali_Ismayilli%20CV.pdf.pdf)
+  - **Transkript:** [Transkript (PDF)](https://3dmech.tech/transkript)
+  - **CV:** [CV (PDF)](https://3dmech.tech/cv)
 
 -----
 
